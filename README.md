@@ -6,8 +6,8 @@
 识别手写数字的,该问题是典型的监督学习类型.
 
 ## 训练结果
-![alt FireShot Capture 002](images/FireShot Capture 002 - TensorFlow.js Tutorial - 127.0.0.1.png)
-![alt FireShot Capture 003](images/FireShot Capture 003 - TensorFlow.js Tutorial - 127.0.0.1.png)
+![alt FireShot Capture 002](images/FireShot%20Capture%20002%20-%20TensorFlow.js%20Tutorial%20-%20127.0.0.1.png)
+![alt FireShot Capture 003](images/FireShot%20Capture%20003%20-%20TensorFlow.js%20Tutorial%20-%20127.0.0.1.png)
 
 ## 总结
 分类任务需要使用适当的数据表示法来显示标签。
